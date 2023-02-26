@@ -1,0 +1,21 @@
+body
+{
+    width: 100%;
+    color: white;
+    background-size: cover;
+}
+.heading h3{
+    display: inline;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+h4{
+    background-color: white;
+    line-height: 2;
+    margin: 0px;
+}
+.modal-dialog{
+    width: 90%;
+}
